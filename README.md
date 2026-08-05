@@ -99,4 +99,4 @@ Supabase project.
 The app is deployed as an open internal tool: no login is required, and row-level security policies
 allow read/write for the app's public API role. Adding authentication would mean enabling email +
 Google sign-in and narrowing the policies to authenticated users (and, for approvals, a
-role-checking function backed by a separate `user_roles` table).
+role-checking function backed by a sepa
